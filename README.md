@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, Batoul Hamdan
 #### Web Development
 ![Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
