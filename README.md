@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+I'm Batoul from Lebanon, and I'm a Computer Science graduate from Lebanese University Faculty of Sciences. I'm preparing myself to be a full-stack web developer. I enjoy coding and learning new languages
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatoulHamdan)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BatoulHamdan/BatoulHamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
