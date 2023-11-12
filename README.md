@@ -1,10 +1,12 @@
-### Hi there 👋, Batoul Hamdan
-#### Web Development
 ![Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+#Hi there 👋, I'm Batoul Hamdan
 
 I'm Batoul from Lebanon, and I'm a Computer Science graduate from Lebanese University Faculty of Sciences. I'm preparing myself to be a full-stack web developer. I enjoy coding and learning new languages.
 
-Skills: JS / HTML / CSS
+##Skills
+💻JS / HTML / CSS
+💾DBMS / SQL
 
 - 🔭 I’m currently working on Front end projects 
 - 🌱 I’m currently learning Javascript 
